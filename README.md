@@ -8,8 +8,8 @@
 ⠀⠀⠈⠹⣇⢡⢿⡆⠻⣿⣷⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣍⡻⣿⣟⣻⣿⣿⣿⣿⣷⣦⣥⣬⣤⣴⣾⣿⣿⣿⣿⣷⣿⣿⣿⣿⣷⡜⠃
 ⠀⠀⠀⢀⣘⠈⢂⠃⣧⡹⣿⣷⡄⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⣅⡙⢿⣟⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⡕⠂
 
-я первый сделал промпт и мне стянуло в лимит рот
-моделька знает толк в этом, мы пишем сразу в прод
-team lead упал с инфарктом, когда чекнул этот код
-я помню мама говорила: «иди нахуй на завод»
+I sent the first prompt, limit clamped my mouth, dear God,
+The model knows its stuff, we write straight into prod.
+Team lead collapsed, heart attack, once he checked that code,
+I remember Mom said: "Fuck off to the factory, hit the road."
 ```
